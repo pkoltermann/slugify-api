@@ -1,0 +1,6 @@
+{
+    "require": {
+        "cocur/slugify": "^3.2",
+        "symfony/http-foundation": "^4.2"
+    }
+}
